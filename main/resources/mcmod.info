@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nttkt",
+  "name": "Entity KillTrak (WIP)",
+  "description": "Entity (NTT) KillTraker™ for Minecraft Java Edition 1.12.2 (WIP)",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["cschoker"],
+  "credits": "cschoker and the attributors",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
